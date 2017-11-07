@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: default
 title: Discussions about Architectures
 ---
 
