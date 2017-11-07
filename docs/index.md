@@ -20,7 +20,9 @@ sequenceDiagram
         end
     end
 </div>
-    
+
+---
+
 <div class="mermaid">
 sequenceDiagram
     participant Alice
